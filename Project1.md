@@ -75,6 +75,7 @@
 ![Screenshot from 2023-08-14 02-12-02](https://github.com/PromiseNwachukwu/DevOps-Projects-Darey.io/assets/109115304/debe1c62-c7e3-4da6-90e1-00e29aac5dfb)
 
 ## 24. kill command:
+![Screenshot from 2023-08-14 09-33-17](https://github.com/PromiseNwachukwu/DevOps-Projects-Darey.io/assets/109115304/e212cb28-6b9c-47c8-b46c-07eacf31c818)
 
 ## 25. ping command:
 ![Screenshot from 2023-08-14 03-16-23](https://github.com/PromiseNwachukwu/DevOps-Projects-Darey.io/assets/109115304/7d54b2cf-41f3-4dac-b627-ba38683c5d0c)
@@ -101,18 +102,28 @@
 ![Screenshot from 2023-08-14 03-57-04](https://github.com/PromiseNwachukwu/DevOps-Projects-Darey.io/assets/109115304/492ec34a-3643-4b19-89d2-4bd7ee575b73)
 
 ## 33. hostname command:
+![Screenshot from 2023-08-14 04-17-33](https://github.com/PromiseNwachukwu/DevOps-Projects-Darey.io/assets/109115304/54252ca8-7f10-411d-a9a1-acc22d8e6c4a)
 
 ## 34. useradd, userdel commands:
+![Screenshot from 2023-08-14 09-23-05](https://github.com/PromiseNwachukwu/DevOps-Projects-Darey.io/assets/109115304/c14f3c15-5209-4f07-aef0-f3d3b1508d59)
 
 ## 35. apt-get command:
+![Screenshot from 2023-08-14 08-35-56](https://github.com/PromiseNwachukwu/DevOps-Projects-Darey.io/assets/109115304/8dae715d-b73f-4934-9495-88f49569658f)
 
 ## 36. nano, vi, jed commands:
+![Screenshot from 2023-08-14 08-42-01](https://github.com/PromiseNwachukwu/DevOps-Projects-Darey.io/assets/109115304/307bb2ae-2858-407f-9999-88136c488d06)
+![Screenshot from 2023-08-14 08-42-36](https://github.com/PromiseNwachukwu/DevOps-Projects-Darey.io/assets/109115304/f81157a5-0c28-41ef-a157-424b8a62b98d)
+![Screenshot from 2023-08-14 08-46-57](https://github.com/PromiseNwachukwu/DevOps-Projects-Darey.io/assets/109115304/bb997090-a35e-4dd2-98e7-70eb1ccc787a)
 
 ## 37. alias, unalias commands:
+![Screenshot from 2023-08-14 09-05-25](https://github.com/PromiseNwachukwu/DevOps-Projects-Darey.io/assets/109115304/5daa4a63-bf28-4cc2-afb5-b164824ee72e)
 
 ## 38. su command:
+![Screenshot from 2023-08-14 09-15-01](https://github.com/PromiseNwachukwu/DevOps-Projects-Darey.io/assets/109115304/512be4ec-d461-4cd3-b1a2-c37953128d41)
 
 ## 39. htop command:
+![Screenshot from 2023-08-14 09-27-19](https://github.com/PromiseNwachukwu/DevOps-Projects-Darey.io/assets/109115304/3d10b76c-5ff8-4fcd-b01a-6f394a7878ec)
+![Screenshot from 2023-08-14 09-27-09](https://github.com/PromiseNwachukwu/DevOps-Projects-Darey.io/assets/109115304/a36f47af-5422-4111-a195-2d5cc2d92dd9)
 
 ## 40. ps command:
 ![Screenshot from 2023-08-13 20-33-01](https://github.com/PromiseNwachukwu/DevOps-Projects-Darey.io/assets/109115304/e7c9bec0-b8b4-4eb0-bca5-b6b0802f71d5)
